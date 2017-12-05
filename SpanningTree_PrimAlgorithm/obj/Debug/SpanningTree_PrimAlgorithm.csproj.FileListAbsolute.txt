@@ -1,0 +1,6 @@
+D:\Programming\Console C#\SpanningTree_PrimAlgorithm\SpanningTree_PrimAlgorithm\bin\Debug\SpanningTree_PrimAlgorithm.exe.config
+D:\Programming\Console C#\SpanningTree_PrimAlgorithm\SpanningTree_PrimAlgorithm\bin\Debug\SpanningTree_PrimAlgorithm.exe
+D:\Programming\Console C#\SpanningTree_PrimAlgorithm\SpanningTree_PrimAlgorithm\bin\Debug\SpanningTree_PrimAlgorithm.pdb
+D:\Programming\Console C#\SpanningTree_PrimAlgorithm\SpanningTree_PrimAlgorithm\obj\Debug\SpanningTree_PrimAlgorithm.csprojResolveAssemblyReference.cache
+D:\Programming\Console C#\SpanningTree_PrimAlgorithm\SpanningTree_PrimAlgorithm\obj\Debug\SpanningTree_PrimAlgorithm.exe
+D:\Programming\Console C#\SpanningTree_PrimAlgorithm\SpanningTree_PrimAlgorithm\obj\Debug\SpanningTree_PrimAlgorithm.pdb
